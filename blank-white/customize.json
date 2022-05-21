@@ -1,0 +1,23 @@
+{
+  "greeting": "嗨",
+  "name": "吴宇昊",
+  "greetingText": "我真的很喜欢你的名字 吴宇昊！",
+  "wishText": "愿 吴宇昊 永远与你同在！ ;)",
+  "imagePath": "img/lydia2.png",
+  "text1": "今天是你的生日!!! :D",
+  "textInChatBox": "祝你生日快乐！！耶！许多许多快乐...",
+  "sendButtonLabel": "发送",
+  "text2": "这就是我要做的。",
+  "text3": "但后来我停了下来。",
+  "text4": "我意识到，我想做点什么",
+  "text4Adjective": "非常特别的",
+  "text5Entry": "因为,",
+  "text5Content": "你是非常特别的",
+  "smiley": ":)",
+  "bigTextPart1": "所",
+  "bigTextPart2": "以",
+  "wishHeading": "生日快乐!",
+  "outroText": "好的，现在回来告诉我你喜不喜欢。",
+  "replayText": "或者单击，如果您想再次观看一遍的话。",
+  "outroSmiley": ":)"
+}
